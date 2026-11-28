@@ -12,7 +12,7 @@ Na prática, o projeto trabalha com diferentes extensões conforme o fluxo e os 
 
 O nome **Butus** nasceu da inspiração no escorpião ***Buthus occitanus*** (família *Buthidae*) — uma espécie de aracnídeo conhecida pela resistência e adaptação a ambientes secos e hostis. Essa mesma ideia de resiliência, precisão e não depender de conforto excessivo guia a identidade do projeto e o ícone do escorpião.
 
-**Autoria e desenvolvimento:** A ideia e a criação original da linguagem são do autor, com automação e apoio do **Google DeepMind** na estruturação, organização e compilação limpa.
+**Autoria e desenvolvimento:** A ideia e a criação original da linguagem são minhas, com automação e apoio do **Google DeepMind** na estruturação, organização e compilação limpa.
 
 ---
 
